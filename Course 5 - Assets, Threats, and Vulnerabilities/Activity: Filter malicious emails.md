@@ -123,6 +123,14 @@ The invitation time limit
 
 The download options for major operating systems
 
+Phishing emails often contain links that redirect to malicious sites or trigger malware downloads.
+
+Pro tip: When investigating suspicious emails, hovering your mouse cursor over buttons will reveal the URL they redirect to without having to click them. This is the safest way to check if it will take you to a suspicious domain or if it links to an http:// URL that isn’t secure.
+
+In this case, the message contains three download options. Each of them opens this login form:
+
+[[/images/path/to/image.ext|ALT TEXT]]
+
 ### 3. The download options open a webpage with a login form. What is the main clue that indicates this form is malicious?
 
 The URL
