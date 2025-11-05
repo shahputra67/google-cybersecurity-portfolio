@@ -64,7 +64,12 @@ Your completed report should include:
 ## Step 9: Self-Assessment
 
 After completing the report, perform a self-assessment by comparing your work to the provided exemplar. Answer “yes” or “no” to the self-assessment questions to evaluate the completeness and accuracy of your incident report.
-```
+
+# Applying the NIST CSF
+## https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview?usp=sharing
+
+---
+
 # Incident report analysis
 
 ## https://docs.google.com/document/d/1A_T6tOXRR0tbrxATpT7BsT_fTuuSoYLP0rOrafC01no/edit?usp=sharing
