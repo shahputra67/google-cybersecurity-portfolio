@@ -12,7 +12,7 @@ You will review previous entries, fill in any missing information, and complete 
 
 1. Open your saved incident handler's journal.  
 2. If you haven’t begun your journal, use the template:  
-   [[Incident handler's journal](https://docs.google.com/document/d/1jGJhQKrNz7G62RaiIj7l-OTWBTKXVaerWSCRVS0xEQE/template/preview?usp=sharing&resourcekey=0-JXYRihuX_a13YrV6ditJ3A)](#)
+   [[Incident handler's journal](https://docs.google.com/document/d/1jGJhQKrNz7G62RaiIj7l-OTWBTKXVaerWSCRVS0xEQE/template/preview?usp=sharing&resourcekey=0-JXYRihuX_a13YrV6ditJ3A)]
 
 3. Review your entries and ensure you have at least four dated and numbered entries:  
    - Two documenting incident investigations using the 5 W's.  
