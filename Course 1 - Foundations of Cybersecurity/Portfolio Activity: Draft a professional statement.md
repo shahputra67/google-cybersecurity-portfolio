@@ -1,4 +1,5 @@
-# Professional Statement Activity
+# Portfolio Activity: Draft a professional statement
+
 
 ## Activity Overview
 This activity focuses on writing a professional statement to include in a cybersecurity portfolio.  
@@ -42,3 +43,10 @@ Review your work and answer “yes” or “no” for each point:
 5. I plan to update my statement as I gain more knowledge.  
 
 Aim for at least 4 out of 5 points before finalizing.
+
+---
+I am an independent and disciplined learner who values endurance, clarity, and efficiency in every task I take on. I prefer to work with focus and precision, solving problems quietly without seeking recognition. My interest in cybersecurity comes from its demand for sharp thinking, accuracy, and persistence when protecting systems against real threats. I am drawn to the idea of maintaining security and stability through logical solutions rather than unnecessary complexity. I believe integrity and responsibility are essential when handling sensitive data, and I aim to apply these principles to strengthen the security posture of any organization I work with. My approach is methodical and minimal, centered on identifying weaknesses, improving defenses, and ensuring reliable protection for systems and users. Through consistent effort and practical understanding, I intend to contribute to an environment where security is maintained through discipline, not dependency.
+
+
+
+
