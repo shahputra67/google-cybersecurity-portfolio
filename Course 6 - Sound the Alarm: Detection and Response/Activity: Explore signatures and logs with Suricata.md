@@ -14,7 +14,7 @@ You are a security analyst monitoring your employer's network. Your tasks:
 2. Run Suricata with a custom rule to trigger alerts.
 3. Examine `fast.log` and `eve.json` outputs.
 
-Files used:
+## Files used:
 
 - `sample.pcap` – Packet capture with example network traffic.
 - `custom.rules` – Custom Suricata rules.
@@ -27,22 +27,22 @@ Files used:
 
 ## Task 1: Examine a custom rule in Suricata
 
-Display the custom rule:
+## Display the custom rule:
 
 bash
 cat custom.rules
 
-Example rule:
+## Example rule:
 
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"GET on wire"; flow:established,to_server; content:"GET"; http_method; sid:12345; rev:3;)
 
-Components:
+## Components:
 
 Action – alert triggers an alert on matching traffic.
 
 Header – Defines protocol (http), source/destination ($HOME_NET any -> $EXTERNAL_NET any), and traffic direction.
 
-Rule options – Parameters in parentheses:
+## Rule options – Parameters in parentheses:
 
 msg:"GET on wire" – Alert text.
 
@@ -54,13 +54,13 @@ sid:12345 – Signature ID.
 
 rev:3 – Revision version.
 
-Task 2: Trigger a custom rule in Suricata
+## Task 2: Trigger a custom rule in Suricata
 
-1. List log files:
+## 1. List log files:
 
 ls -l /var/log/suricata
 
-2. Run Suricata:
+## 2. Run Suricata:
 
 sudo suricata -r sample.pcap -S custom.rules -k none
 
@@ -70,11 +70,11 @@ sudo suricata -r sample.pcap -S custom.rules -k none
 
 -k none – Disable checksum validation.
 
-3. List log files again:
+## 3. List log files again:
 
 ls -l /var/log/suricata
 
-4. Examine alerts:
+## 4. Examine alerts:
 
 cat /var/log/suricata/fast.log
 
@@ -83,13 +83,13 @@ Example output:
 11/23/2022-12:38:34.624866  [**] [1:12345:3] GET on wire [**] [Classification: (null)] [Priority: 3] {TCP} 172.21.224.2:49652 -> 142.250.1.139:80
 11/23/2022-12:38:58.958203  [**] [1:12345:3] GET on wire [**] [Classification: (null)] [Priority: 3] {TCP} 172.21.224.2:58494 -> 142.250.1.139:80
 
-Task 3: Examine eve.json output
+##Task 3: Examine eve.json output
 
-1. Display eve.json:
+## 1. Display eve.json:
 
 cat /var/log/suricata/eve.json
 
-2. Use jq for formatted output:
+## 2. Use jq for formatted output:
 
 jq . /var/log/suricata/eve.json | less
 
@@ -97,7 +97,7 @@ jq formats JSON for readability.
 
 Use f and b to scroll; press Q to exit.
 
-3. First alert severity: 3
+## 3. First alert severity: 3
 
 Extract specific fields: jq -c "[.timestamp,.flow_id,.alert.signature,.proto,.dest_ip]" /var/log/suricata/eve.json
 
@@ -116,7 +116,7 @@ Replace X with a specific flow_id.
 
 flow_id identifies packets in the same network flow.
 
-Conclusion
+## Conclusion
 
 You have learned to:
 
