@@ -99,4 +99,4 @@ Your completed activity should include:
 - A **sensitivity classification** for each device
 
 # Home asset inventory
-## https://docs.google.com/spreadsheets/d/1pGR2wEdBRNFbyKS0zqpXxy1i3AwzTxh-e6rUh-lyBP4/edit?usp=sharing
+## *https://docs.google.com/spreadsheets/d/1pGR2wEdBRNFbyKS0zqpXxy1i3AwzTxh-e6rUh-lyBP4/edit?usp=sharing*
