@@ -127,8 +127,9 @@ Phishing emails often contain links that redirect to malicious sites or trigger 
 
 Pro tip: When investigating suspicious emails, hovering your mouse cursor over buttons will reveal the URL they redirect to without having to click them. This is the safest way to check if it will take you to a suspicious domain or if it links to an http:// URL that isn’t secure.
 
-In this case, the message contains three download options. Each of them opens this login form:
+In this case, the message contains three download options. Each of them opens this login form
 
+Provided Image:
 [[https://github.com/shahputra67/google-cybersecurity-portfolio/blob/da4a36d3c94304d55c534caae4210b54237ee761/Course%205%20-%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Suspicious%20Domain.jpg]]
 
 ### 3. The download options open a webpage with a login form. What is the main clue that indicates this form is malicious?
