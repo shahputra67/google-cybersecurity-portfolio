@@ -129,7 +129,7 @@ Pro tip: When investigating suspicious emails, hovering your mouse cursor over b
 
 In this case, the message contains three download options. Each of them opens this login form:
 
-[[Course 5 - Assets, Threats, and Vulnerabilities/Suspicious Domain.jpg]]
+[[https://github.com/shahputra67/google-cybersecurity-portfolio/blob/da4a36d3c94304d55c534caae4210b54237ee761/Course%205%20-%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Suspicious%20Domain.jpg]]
 
 ### 3. The download options open a webpage with a login form. What is the main clue that indicates this form is malicious?
 
