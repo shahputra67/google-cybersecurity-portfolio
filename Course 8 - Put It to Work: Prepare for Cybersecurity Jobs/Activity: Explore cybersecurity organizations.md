@@ -59,8 +59,5 @@ All three organizations focus on strengthening cybersecurity knowledge and commu
 
 ---
 
-## Pro Tip: Save the Template
-Keep a blank copy of the **Security Organization Worksheet** for future reference. You can reuse it to explore other organizations or document new professional interests as your cybersecurity career develops.
-
 # Security organization worksheet
 ## https://docs.google.com/document/d/1tMk8DVyASZHZDHHUYxukFnwFcLkvJUT_ryDhjpDujf0/edit?usp=sharing
