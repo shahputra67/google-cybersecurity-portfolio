@@ -20,9 +20,7 @@ To use the template for this course item, click the following link and select **
 
 [PASTA worksheet](#)
 
-OR  
 
-If you don’t have a Google account, you can download the template directly from the attachment.
 
 Supporting materials:  
 
