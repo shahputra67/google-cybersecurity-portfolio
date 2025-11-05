@@ -27,6 +27,7 @@ If you don’t have a Google account, you can download the template directly fro
 Supporting materials:  
 
 PASTA data flow diagram: [https://docs.google.com/presentation/d/1ol7y79popTFfNHM-90ES-H-i1Lpd0YNvPShxBlXozjg/template/preview?resourcekey=0-DZAkf7Vzh2PXsP-j3oXV-g](#)
+
 PASTA attack tree: [https://docs.google.com/presentation/d/1FmWLyHgmq9XQoVuMxOym2PHO8IuedCkan4moYnI-EJ0/template/preview?resourcekey=0-zYPY7AhPJdcClXamlAfOag#slide=id.p](#)
 
 OR  
