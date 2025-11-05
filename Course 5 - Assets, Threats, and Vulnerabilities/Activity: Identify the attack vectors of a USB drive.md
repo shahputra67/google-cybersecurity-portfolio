@@ -2,7 +2,7 @@
 
 In this activity, you will assess the attack vectors of a USB drive. You will analyze a scenario involving a USB drive found in a parking lot from the perspective of both an attacker and a target.
 
-USB drives are convenient for storing and transferring data, but they also pose security risks. Threat actors often use them to spread malware, damage systems, or gain control of devices. A common attack, known as **USB baiting**, relies on curiosity—an attacker leaves an infected USB stick for someone to find and plug into a computer, unknowingly infecting the network.
+USB drives are convenient for storing and transferring data, but they also pose security risks. Threat actors often use them to spread malware, damage systems, or gain control of devices. A common attack, known as **USB baiting**, relies on curiosity. An attacker leaves an infected USB stick for someone to find and plug into a computer, unknowingly infecting the network.
 
 ---
 
