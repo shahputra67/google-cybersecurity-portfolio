@@ -26,22 +26,19 @@ Steps in the lab:
 1. List available interfaces using ifconfig:
 sudo ifconfig
 
-csharp
-Copy code
+
 2. Example output shows `eth0` as the Ethernet interface. This will be used for packet capture.  
 3. Identify interfaces using tcpdump:
 sudo tcpdump -D
 
-markdown
-Copy code
+
 
 ## Task 2 – Inspect Network Traffic on an Interface
 
 1. Capture live traffic from `eth0`:
 sudo tcpdump -i eth0 -v -c5
 
-markdown
-Copy code
+
 Options:  
 - `-i eth0`: capture on interface eth0  
 - `-v`: verbose output  
@@ -54,8 +51,7 @@ Options:
 1. Capture only web traffic (TCP port 80) into a file:
 sudo tcpdump -i eth0 -nn -c9 port 80 -w capture.pcap &
 
-markdown
-Copy code
+
 Options:  
 - `-nn`: disable name resolution  
 - `-c9`: capture 9 packets  
@@ -66,21 +62,17 @@ Options:
 2. Generate HTTP traffic with curl:
 curl opensource.google.com
 
-markdown
-Copy code
+
 3. Verify capture:
 ls -l capture.pcap
 
-shell
-Copy code
 
 ## Task 4 – Filter Captured Packet Data
 
 1. View packet header data:
 sudo tcpdump -nn -r capture.pcap -v
 
-markdown
-Copy code
+
 Options:  
 - `-nn`: disable name resolution  
 - `-r capture.pcap`: read file  
@@ -89,8 +81,7 @@ Options:
 2. View hexadecimal and ASCII packet data:
 sudo tcpdump -nn -r capture.pcap -X
 
-markdown
-Copy code
+
 Option `-X` displays packet data in hex and ASCII for pattern analysis or forensic inspection.
 
 ## Test Your Understanding
