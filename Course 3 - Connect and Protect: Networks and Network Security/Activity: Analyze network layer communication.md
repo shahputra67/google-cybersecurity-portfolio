@@ -78,7 +78,8 @@ To use the template for this course item, click the link below and select **Use 
 Use the sentence starters and prompts provided in the template to support your thinking and ensure that you include all relevant details about the incident.
 
 **Link to template:**  
-Cybersecurity incident report template
+Cybersecurity incident report template:
+https://docs.google.com/document/d/1hwjSRYalxGd-qyRIXWz8LBVuSAgEq0AHXOF_BB7DdrI/template/preview
 
 If you don’t have a Google account, you can download the template directly from the attachment below.
 
