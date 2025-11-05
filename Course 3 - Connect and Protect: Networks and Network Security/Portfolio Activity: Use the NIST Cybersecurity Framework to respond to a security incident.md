@@ -1,4 +1,4 @@
-```markdown
+
 # Incident Report Portfolio
 
 ## Activity Overview
