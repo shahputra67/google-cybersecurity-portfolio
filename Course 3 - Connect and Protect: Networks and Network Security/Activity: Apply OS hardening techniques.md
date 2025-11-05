@@ -97,5 +97,11 @@ Your final submission must include:
 - A **complete documentation** of the incident  
 - One **security measure recommendation** to prevent brute force attacks
 
+# tcpdump traffic log
+## https://docs.google.com/document/d/1HDAQTLSK5CyPLPHeLI0s75kNE-kA2kG0NFJoZlz0xCc/template/preview?resourcekey=0-vDSHnW4qKxOOQtsZeGRUeQ
+
+# How to read the tcpdump log 
+## https://docs.google.com/document/d/1zuVm_KixJqoHxrMefsxG0bi1tB6RYBQsXkPHIWxdRag/template/preview#heading=h.shz1bcdh2tm3
+
 # Security report incident
 ## **https://docs.google.com/document/d/1xkrEJHFjxLnqWzFL-AnCaGFVTYPOodYJEspyEyMU2Vo/edit?usp=sharing**
