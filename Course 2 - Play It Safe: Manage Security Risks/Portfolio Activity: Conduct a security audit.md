@@ -80,3 +80,7 @@ The report is clear, organized, and complete.
 The document is free of grammar and formatting errors.
 
 A passing score is 4 out of 5 points (80%). Revise and refine your work if necessary to strengthen clarity and completeness before adding it to your portfolio.
+
+# Controls and compliance checklist
+
+## https://docs.google.com/document/d/12fgX-xxg39mqvlXhjlNSp0xMnV-x5yjPNIZjWdAcRXQ/edit?usp=sharing
