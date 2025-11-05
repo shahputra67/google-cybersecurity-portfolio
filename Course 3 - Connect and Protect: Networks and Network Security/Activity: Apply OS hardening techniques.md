@@ -1,4 +1,4 @@
-# Activity Instructions: Security Incident Investigation – YummyRecipesForMe.com
+# Activity: Security Incident Investigation
 
 ## Activity Overview
 
