@@ -30,9 +30,6 @@ PASTA data flow diagram: [https://docs.google.com/presentation/d/1ol7y79popTFfNH
 
 PASTA attack tree: [https://docs.google.com/presentation/d/1FmWLyHgmq9XQoVuMxOym2PHO8IuedCkan4moYnI-EJ0/template/preview?resourcekey=0-zYPY7AhPJdcClXamlAfOag#slide=id.p](#)
 
-OR  
-
-If you don’t have a Google account, you can download the supporting materials directly from the attachment.
 
 ### Part 2 - Complete the PASTA Stages
 
