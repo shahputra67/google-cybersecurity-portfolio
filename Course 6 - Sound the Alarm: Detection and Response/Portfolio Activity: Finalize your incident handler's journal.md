@@ -39,16 +39,12 @@ You will review previous entries, fill in any missing information, and complete 
 
 ---
 
-### Pro Tip: Save a copy of your work
-
-- Save your completed incident handler's journal.  
-- Add it to your cybersecurity portfolio to showcase your skills and experience to employers.
-
----
-
 ## What to Include in Your Response
 
 - **4 completed journal entries** with Date, Entry, and Description (50–80 words each).  
 - **2 entries** documenting an incident investigation using the 5 W's (4–6 sentences or bullet points).  
 - **2 entries** outlining the use of a cybersecurity tool (3–5 sentences or bullet points).  
 - **Reflections/Notes section** addressing the reflection prompts (6–9 sentences or bullets).
+
+# Incident handler's journal
+## https://docs.google.com/document/d/1Jq0HyuPKpJDe4gSVQqDaS5RFjJXtVBB6BCAUYCRRTuo/edit?usp=sharing
