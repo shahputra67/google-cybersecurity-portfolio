@@ -132,6 +132,11 @@ To complete the self-assessment:
 1. Open your Vulnerability Assessment Report.
 2. Respond “yes” or “no” to each statement.
 
+# NIST SP 800-30 Rev. 1
+
+## https://docs.google.com/document/d/1E17UQIvD9wU9wWVO63T7N1ezaaHYfqXIGezQrOt3vOE/edit?usp=sharing
+
+
 # Vulnerability assessment report
 
 ## https://docs.google.com/document/d/1xm_31movtTHzOsO6zWXx1v2WrsIn-0-CuT3HW6Kv0sY/edit?usp=sharing
