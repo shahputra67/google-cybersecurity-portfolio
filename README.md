@@ -42,7 +42,7 @@ Conducted a vulnerability assessment for a small business network. Evaluated sec
 
 ---
 
-#### Each of these activities demonstrates applied cybersecurity knowledge and hands-on experience across risk management, system auditing, incident response, Linux administration, and programming. Together, they form a complete portfolio aligned with industry standards and practical job requirements.
+* Each of these activities demonstrates applied cybersecurity knowledge and hands-on experience across risk management, system auditing, incident response, Linux administration, and programming. Together, they form a complete portfolio aligned with industry standards and practical job requirements.
 
 ---
 
