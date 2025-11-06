@@ -1,6 +1,4 @@
 
-# Incident Report Portfolio
-
 ## Activity Overview
 
 In this activity, you will create an incident report using your knowledge of network security to analyze a cybersecurity event. You will apply the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) to guide your analysis. The CSF provides standards, guidelines, and best practices for managing cybersecurity risks.
