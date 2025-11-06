@@ -46,7 +46,7 @@ Each of these activities demonstrates applied cybersecurity knowledge and hands-
 
 ---
 
-### Course Activities  
+## Cybersecurity Course Activites
 Each course activity contributed to developing a strong foundation in cybersecurity principles and practical application. The activities presented in this portfolio were selected for their relevance in demonstrating analytical, technical, and problem-solving skills.  
 
 Other activities that are not included here, completed throughout the program, also contributed to strengthening essential skills and reinforcing key cybersecurity concepts.
