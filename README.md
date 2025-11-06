@@ -44,32 +44,16 @@ Developed a Python algorithm to open, read, and parse file contents. Documented 
 
 Each of these activities demonstrates applied cybersecurity knowledge and hands-on experience across risk management, system auditing, incident response, Linux administration, and programming. Together, they form a complete portfolio aligned with industry standards and practical job requirements.
 
+---
 
 ### Course Activities  
-Some course activities were not included in this portfolio, but they contributed to building my practical cybersecurity foundation. These exercises supported the development of key skills across different areas of the field.  
+Each course activity contributed to developing a strong foundation in cybersecurity principles and practical application. The activities presented in this portfolio were selected for their relevance in demonstrating analytical, technical, and problem-solving skills.  
 
-## Course 3: Connect and Protect – Networks and Network Security  
-
-### Analyze Network Layer Communication  
-Examined DNS and ICMP traffic using a network protocol analyzer to identify protocols used during a cybersecurity incident. Analyzed IP datagrams to detect suspicious data packets and understand how malicious traffic moves across the network. This activity strengthened packet analysis and network monitoring skills.
-
----
-
-### Analyze Network Attacks  
-Investigated a network service interruption affecting a company’s website to determine the root cause and type of attack. Evaluated how attacks like DDoS or DNS spoofing impact availability and network stability. This task improved the ability to identify, explain, and mitigate common network-based threats.
-
----
-
-### Apply OS Hardening Techniques  
-Investigated a web application security issue for a simulated company by analyzing tcpdump logs and identifying vulnerable protocols. Documented the incident and recommended a mitigation step to prevent future attacks. This exercise demonstrated OS and network protocol analysis skills essential for protecting server infrastructure.
-
----
-
-### Analysis of Network Hardening  
-Assessed a data breach scenario for a social media company and identified suitable network hardening tools and methods such as port filtering, access control, and encryption. Proposed remediation steps for vulnerabilities and explained how each method improves network resilience. This activity showed applied understanding of proactive network defense and system hardening.
+Other activities that are not included here, completed throughout the program, also contributed to strengthening essential skills and reinforcing key cybersecurity concepts.
 
 
-Although not all activities are showcased here, each one added to my technical and analytical experience in cybersecurity operations and defense.
+
+
 
 
 
