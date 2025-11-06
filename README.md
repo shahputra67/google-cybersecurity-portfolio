@@ -43,3 +43,9 @@ Developed a Python algorithm to open, read, and parse file contents. Documented 
 ---
 
 Each of these activities demonstrates applied cybersecurity knowledge and hands-on experience across risk management, system auditing, incident response, Linux administration, and programming. Together, they form a complete portfolio aligned with industry standards and practical job requirements.
+
+
+### Course Activities  
+Some course activities were not included in this portfolio, but they contributed to building my practical cybersecurity foundation. These exercises supported the development of key skills across different areas of the field.  
+
+
